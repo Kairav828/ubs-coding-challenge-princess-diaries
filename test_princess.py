@@ -1,6 +1,6 @@
 import requests
 
-url = 'http://127.0.0.1:8080/princess-diaries'
+url = 'http://127.0.0.1:8000/princess-diaries'
 data = {
   "tasks": [
     { "name": "A", "start": 480, "end": 540, "station": 1, "score": 2 },
